@@ -1,3 +1,4 @@
+//testing if app is running
 (function()
 {
     function Start()
