@@ -26,7 +26,7 @@ router.get('/services', function(req, res, next) {
 });
 
 /* GET contact page. */
-router.get('/Contact', function(req, res, next) {
+router.get('/contact', function(req, res, next) {
   res.render('contact', { title: 'Contact Me' , id:'bg-other'});
 });
 
